@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "pack_format": 1,
+    "description": [
+      { "text": "", "color": "gray" },
+      { "text": "Turtle Boxes", "color": "green" },
+      "\n",
+      "Allows crafting shulker boxes from turtle shells.",
+      "\n",
+      { "text": "1.0.0-dev for Minecraft 1.14", "color": "dark_gray" },
+      "\n",
+      "By ",
+      { "text": "Arcensoth", "color": "yellow" }
+    ]
+  }
+}
